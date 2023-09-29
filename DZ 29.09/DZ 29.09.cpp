@@ -29,7 +29,7 @@ int main()
         }
 
         cout << "Quantity '<': " << symbolLessThan << endl;
-        cout << "Quantity '>': " << symbolGreaterThan << endl;
+        cout << "Quantity '>': " << symbolGreaterThan << endl; 
         
         int temp = symbolGreaterThan;    
 
